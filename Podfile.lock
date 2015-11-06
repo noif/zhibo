@@ -1,0 +1,10 @@
+PODS:
+  - RongCloudIMLib (2.3.5)
+
+DEPENDENCIES:
+  - RongCloudIMLib
+
+SPEC CHECKSUMS:
+  RongCloudIMLib: 77a940c60be44ece37b74bbe108be0fba1029ede
+
+COCOAPODS: 0.39.0
